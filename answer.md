@@ -22,6 +22,19 @@
 ![image](https://user-images.githubusercontent.com/113675674/209542677-8a4869b2-ba5d-4cd3-ab64-ae3bfe461225.png)  
 
 
+# Задача 5    
+### День недели  
+![image](https://user-images.githubusercontent.com/113675674/210330789-7fb67bc2-de06-4225-a14d-9c8e349a8958.png)  
+
+# Задача 6      
+### четное\нечетное  
+![image](https://user-images.githubusercontent.com/113675674/210330969-e6b88d77-5462-4893-accc-d4ec3145bcee.png)  
+
+# Задача 7        
+### количество дней в месяце  
+![image](https://user-images.githubusercontent.com/113675674/210331811-5a0cf17b-84be-4db0-8820-97026a4d0bc5.png)
+
+
 
 
 
